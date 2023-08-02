@@ -21,5 +21,7 @@ The number of iterations is given by the step parameter.
 
 ### References
 This simulation is inspired by various research studies and computational models in the field of cancer biology and immunology. 
+
 [On-lattice agent-based simulation of populations of cells within the open-source Chaste framework](https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2012.0081)
+
 [A computational multiscale agent-based model for simulating spatio-temporal tumor immune response to PD1 and PDL1 inhibition](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0320#RSIF20170320F2)
